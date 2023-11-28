@@ -1,6 +1,6 @@
 ## Zaki Ahmed
-## zahmed@ucsd.edu
-### Section A15 Rod Albuyeh
+#### zahmed@ucsd.edu
+##### (Section A15 Rod Albuyeh)
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
