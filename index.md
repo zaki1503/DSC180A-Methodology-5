@@ -1,4 +1,3 @@
-# DSC180A-Methodology-5
 ## Zaki Ahmed
 ## zahmed@ucsd.edu
 ### Section A15 Rod Albuyeh
